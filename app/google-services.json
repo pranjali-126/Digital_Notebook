@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271828060107",
+    "project_id": "digital-notebook-f480c",
+    "storage_bucket": "digital-notebook-f480c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271828060107:android:0a5abdc07b5f3f0e7a984e",
+        "android_client_info": {
+          "package_name": "net.smallacademy.firenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271828060107-cjpb9o3dqr31sgsv6qduqev6k98o81qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTi-pNSRUxWE2xzgPNnRaSG_RmaM6dHLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271828060107-cjpb9o3dqr31sgsv6qduqev6k98o81qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
